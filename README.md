@@ -58,4 +58,4 @@ Silakan gunakan format berikut:
 ### Y
 
 ### Z
-- Zidan [Web Akuh](https://zidanfunproject.my.com)
+- Zidan [Web Akuh](https://zidanfunproject.my.id)
