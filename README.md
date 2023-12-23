@@ -6,7 +6,7 @@ Silakan gunakan format berikut:
 ***Nama Lengkap, [LinkedIn/GitHub/Website Pribadi](Alamat URL)**
 
 ### A
-- Alfeus Martinus, [MyWebsite](alfeus-space.my.id)
+- Alfeus Martinus, [MyWebsite](https://alfeus-space.my.id/)
 - Arsya Permana, [WebAku](arsya.vercel.app)
 
 ### B
