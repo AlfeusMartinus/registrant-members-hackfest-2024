@@ -7,6 +7,7 @@ Silakan gunakan format berikut:
 
 ### A
 - Alfeus Martinus, [MyWebsite](alfeus-space.my.id)
+- Arsya Permana, [WebAku](arsya.vercel.app)
 
 ### B
 - Budiyono, [LinkedIn](https://www.linkedin.com/in/budi-yono-8752669b/)
