@@ -7,6 +7,7 @@ Silakan gunakan format berikut:
 
 ### A
 - Alfeus Martinus, [MyWebsite](https://alfeus-space.my.id/)
+- Andika Eka Kurnia, [MyGithub](https://github.com/dikdns)
 - Arsya Permana, [WebAku](https://arsya.vercel.app)
 
 ### B
