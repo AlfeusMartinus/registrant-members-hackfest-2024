@@ -15,7 +15,7 @@ Silakan gunakan format berikut:
 ### C
 
 ### D
-
+- Datuk Daneswara Raditya Samsura, [LinkedIn](https://www.linkedin.com/in/daneswaraa)
 ### E
 
 ### F
